@@ -1,1 +1,1 @@
-# n8n_templates
+# n8n_templates SEO
